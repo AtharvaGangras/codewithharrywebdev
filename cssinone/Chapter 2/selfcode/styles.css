@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    background-color: blue;
+    color: white;
+    
+}
+body{
+
+    background-image: url(pexels-quintin-gellar-313782.jpg);
+    background-size: contain;
+    /* background-repeat: no-repeat; */
+}
